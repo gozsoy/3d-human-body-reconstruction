@@ -1,5 +1,7 @@
 # Project 3 - Dicemen
 
+NOTE: Only model files are available because of copyright on original codebase.
+ 
 ## Installation
 
 1. Create the environment
